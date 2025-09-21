@@ -6,7 +6,7 @@ manufacturer:
 
 ### App pinning / App locking
 
-When you open the recent apps tray, drag your app downwards (it will be locked). Locked/pinned apps will gain further protection and not be cleared from the background, even if you clear recent apps. Drag downwards again to clear your app from the background. <br>
+When you open the recent apps tray, drag your app downwards (it will be locked). Locked/pinned apps will gain further protection and not be lgnfeocboekxcleared from the background, even if you clear recent apps. Drag downwards again to clear your app from the background. <br>
 On some phones, you need to long-press Your app and then choose the padlock icon from the menu:
 
 <div class="img-block">
